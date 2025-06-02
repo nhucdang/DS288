@@ -7,7 +7,7 @@
 
 ## Week 1 - 5/31/25
 
-<!-### Fails of the Week
+<!--### Fails of the Week
 - [What didn't go as planned]-->
 
 ### Successes of the Week
@@ -17,4 +17,4 @@
 - [Challenges faced]   -->
 
 ### Goals for Next Week
-- [What you plan to accomplish]
+- Look into project proposal submission and idealize over project topic submission
