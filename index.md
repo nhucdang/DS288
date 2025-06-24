@@ -1,5 +1,14 @@
 # Weekly Status Reports - DS288 CapStone
 
+
+
+## Week 4 - 6/21/25
+
+
+
+
+
+
 -----------------------------------------------------------------------------------
 ## Week 3 - 6/14/25
 
@@ -9,8 +18,7 @@
 - Started to compile data source using financial data from 2023, 2024 and 2025.
   Rationale for the multiple time period data is to assess whether the LLM can provide various cut of analysis between MtM(month to month), YoY (year over year), QtQ (quarter to quarter) and YTD (year to date)
 - This sample data set will also be input through commercial LLM to compare
-- WORKING IN PROGRESS
-
+- Re-proposed project idea to Dr. Allen about using sales data from cannabis industry to integrate both time-series forecasting and anomaly detection to have a more data science approach.
 
 -----------------------------------------------------------------------------------
 
