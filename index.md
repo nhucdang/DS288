@@ -1,14 +1,17 @@
 # Weekly Status Reports - DS288 CapStone
 
+## Week 5 - 6/28/25
 
+-Start to draft up requirement slides
 
+-----------------------------------------------------------------------------------
 ## Week 4 - 6/21/25
 
-
-
-
-
-
+- Dr. Allen agreed on new project idea proposal.
+- Start to layout foundation of data and processes
+  - Sourced out data layout
+- Research time-series forecasting method (watch video of Forecasting the Future Using Time Series by John Mount (aiplus.training)
+- Review various anomaly detection via watch video of Introduction to Fraud and Anomaly detection by Dr. Aric LaBarr via aiplus.training.
 -----------------------------------------------------------------------------------
 ## Week 3 - 6/14/25
 
