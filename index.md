@@ -9,14 +9,15 @@
 
 ## Week 9 - 7/26/25
 
+-update anomaly detection methods/technique
+-review XGboost implementation
 
--
 
 ## Week 8 - 7/19/25
 
+-setup hypothesis (h1,h2,h3) for design document
 -researched on FB prophet and replace with a pure ML forecasting
 -review consideration of adding external media campaign
-
 
 ## Week 7 - 7/12/25
 
