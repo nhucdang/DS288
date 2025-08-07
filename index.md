@@ -9,12 +9,14 @@
 
 ## Week 9 - 7/26/25
 
+
 -
 
 ## Week 8 - 7/19/25
 
--Review consideration of adding exogenou
--
+-researched on FB prophet and replace with a pure ML forecasting
+-review consideration of adding external media campaign
+
 
 ## Week 7 - 7/12/25
 
