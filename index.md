@@ -1,12 +1,32 @@
 # Weekly Status Reports - DS288 CapStone
 
-## Week 5 - 7/5/25
+
+
+## Week 10 - 8/2/25
+
+-Setup database environment 
+-review data table schema
+
+## Week 9 - 7/26/25
+
+-
+
+## Week 8 - 7/19/25
+
+-Review consideration of adding exogenou
+-
+
+## Week 7 - 7/12/25
+
+-Draft up project workflow 
+-completed introduction section of design document
+-Review Exploratory data analysis and outcomes
+
+## Week 6 - 7/5/25
 
 -Completed and upload requirement slides
 -Research technology stack to integrate data (database, preprocessing
 -Review time series/anomaly detection application on retail sales use case
-
-
 
 -----------------------------------------------------------------------------------
 
