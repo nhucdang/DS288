@@ -1,6 +1,9 @@
 # Weekly Status Reports - DS288 CapStone
 
+## Week 11 - 8/9/25
 
+-compliled workflow for each hypothesis and set goal timeline
+-review additional external factors such as weather impact 
 
 ## Week 10 - 8/2/25
 
@@ -11,7 +14,6 @@
 
 -update anomaly detection methods/technique
 -review XGboost implementation
-
 
 ## Week 8 - 7/19/25
 
