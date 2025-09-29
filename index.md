@@ -1,5 +1,17 @@
 # Weekly Status Reports - DS288 CapStone
 
+## Week 13 - 9/27/25
+-Start to run test/train models and compare results
+-Refine orchestration pipeline to adjust for sliding window test/train
+
+## Week 13 - 9/20/25
+-Setup XGBoost Modeling parameters
+-Setup SARIMAX
+
+## Week 12 - 9/13/25
+-placeholder
+-placeholder
+
 ## Week 11 - 8/9/25
 
 -compliled workflow for each hypothesis and set goal timeline
