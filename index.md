@@ -3,14 +3,15 @@
 ## Week 13 - 9/27/25
 -Start to run test/train models and compare results
 -Refine orchestration pipeline to adjust for sliding window test/train
+-Started a statistical analysis notebook for H1 testing
 
 ## Week 13 - 9/20/25
 -Setup XGBoost Modeling parameters
 -Setup SARIMAX
 
 ## Week 12 - 9/13/25
--placeholder
--placeholder
+-Review on datasets and exogenous features - does it make a differences
+-Discussed with Dr. Allen on project progression and timeline
 
 ## Week 11 - 8/9/25
 
