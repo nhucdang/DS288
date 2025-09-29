@@ -5,6 +5,11 @@
 - Refine orchestration pipeline to adjust for sliding window test/train
 - Started a statistical analysis notebook for H1 testing
 
+Upcoming Tasks
+
+- Review statistical analysis to validate results for H1
+- Review Database upload of data
+
 ## Week 13 - 9/20/25
 - Setup XGBoost Modeling parameters
 - Setup SARIMAX, review parameters
