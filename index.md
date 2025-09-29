@@ -47,15 +47,13 @@
 -Review time series/anomaly detection application on retail sales use case
 
 -----------------------------------------------------------------------------------
-
 ## Week 5 - 6/28/25
 
--Start to draft up requirement slides
--Review anomalies to factor in review: volumne-based (fluctuation on certain SKUs on specific day/location), gross/net sales and discount flux, SKU anomaly (if certain SKUs sell higher or no sale at all, time-based - usual sales on holiday vs non-business days.
--Discuss in-class session about sales data
--Update Dr. Allen on sales data via piazza
--Start to work on requirements
-
+- Start to draft up requirement slides
+- Review anomalies to factor in review: volumne-based (fluctuation on certain SKUs on specific day/location), gross/net sales and discount flux, SKU anomaly (if certain SKUs sell higher or no sale at all, time-based - usual sales on holiday vs non-business days.
+- Discuss in-class session about sales data
+- Update Dr. Allen on sales data via piazza
+- Start to work on requirements
 -----------------------------------------------------------------------------------
 ## Week 4 - 6/21/25
 
