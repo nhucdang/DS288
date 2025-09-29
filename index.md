@@ -1,50 +1,50 @@
 # Weekly Status Reports - DS288 CapStone
 
 ## Week 13 - 9/27/25
--Start to run test/train models and compare results
--Refine orchestration pipeline to adjust for sliding window test/train
--Started a statistical analysis notebook for H1 testing
+- Start to run test/train models and compare results
+- Refine orchestration pipeline to adjust for sliding window test/train
+- Started a statistical analysis notebook for H1 testing
 
 ## Week 13 - 9/20/25
--Setup XGBoost Modeling parameters
--Setup SARIMAX
+- Setup XGBoost Modeling parameters
+- Setup SARIMAX, review parameters
 
 ## Week 12 - 9/13/25
--Review on datasets and exogenous features - does it make a differences
--Discussed with Dr. Allen on project progression and timeline
+- Review on datasets and exogenous features - does it make a differences
+- Discussed with Dr. Allen on project progression and timeline
 
 ## Week 11 - 8/9/25
 
--compliled workflow for each hypothesis and set goal timeline
--review additional external factors such as weather impact 
+- compliled workflow for each hypothesis and set goal timeline
+- review additional external factors such as weather impact 
 
 ## Week 10 - 8/2/25
 
--Setup database environment 
--review data table schema
+- Setup database environment 
+- review data table schema
 
 ## Week 9 - 7/26/25
 
--update anomaly detection methods/technique
--review XGboost implementation
+- update anomaly detection methods/technique
+- review XGboost implementation
 
 ## Week 8 - 7/19/25
 
--setup hypothesis (h1,h2,h3) for design document
--researched on FB prophet and replace with a pure ML forecasting
--review consideration of adding external media campaign
+- setup hypothesis (h1,h2,h3) for design document
+- researched on FB prophet and replace with a pure ML forecasting
+- review consideration of adding external media campaign
 
 ## Week 7 - 7/12/25
 
--Draft up project workflow 
--completed introduction section of design document
--Review Exploratory data analysis and outcomes
+- Draft up project workflow 
+- Completed introduction section of design document
+- Review Exploratory data analysis and outcomes
 
 ## Week 6 - 7/5/25
 
--Completed and upload requirement slides
--Research technology stack to integrate data (database, preprocessing
--Review time series/anomaly detection application on retail sales use case
+- Completed and upload requirement slides
+- Research technology stack to integrate data (database, preprocessing
+- Review time series/anomaly detection application on retail sales use case
 
 -----------------------------------------------------------------------------------
 ## Week 5 - 6/28/25
