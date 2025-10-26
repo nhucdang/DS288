@@ -1,5 +1,24 @@
 # Weekly Status Reports - DS288 CapStone
 
+
+## Week 13 - 10/25/25
+- Compile and ran anomaly detection across H1 and H2
+- Prepare/Compile slides in for analysis/method perform up to this point
+
+## Week 13 - 10/18/25
+- Compile and ran anomaly detection on data set
+- Updated coding to reflect 
+- Use statistical method such as low sales, no sales, net sales/number of transactions
+- Incorporate isolation forest , ML technique, to identify anomaly
+
+## Week 13 - 10/11/25
+- Start to run test/train models and compare results with pre/post break
+
+## Week 13 - 10/04/25
+- Compile H1 testing to show RMSE/MAPE performance across three prediction method
+- Review data, identified data structural break
+- Re-cast analysis using a regime-awareness approach to review performance across pre/post break
+
 ## Week 13 - 9/27/25
 - Start to run test/train models and compare results
 - Refine orchestration pipeline to adjust for sliding window test/train
